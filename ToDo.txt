@@ -1,1 +1,3 @@
 List of ToDo things.
+1. Read
+2. Write

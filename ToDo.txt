@@ -1,1 +1,4 @@
-List of ToDo things.
+List of ToDo things,
+1. Read
+2. Write
+3. Listen
